@@ -56,6 +56,7 @@ This course covers the fundamentals of Deep Learning using PyTorch, including:
 - Data Loading Pipelines
 - Model Evaluation
 - Deep Learning Workflows
+- Model Deployment 
 
 ## Technologies Used
 
