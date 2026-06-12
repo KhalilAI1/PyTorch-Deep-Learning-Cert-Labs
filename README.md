@@ -28,11 +28,22 @@ This course covers the fundamentals of Deep Learning using PyTorch, including:
 
 ```text
 .
-├── Lab_01/
-├── Lab_02/
-├── Lab_03/
-├── ...
-└── Certificate/
+├── C1
+│   ├── C1_M1
+│   ├── C1_M2
+│   ├── C1_M3
+│   └── ...
+├── C2
+│   ├── C2_M1
+│   ├── C2_M2
+│   └── ...
+├── C3
+│   ├── C3_M1
+│   ├── C3_M2
+│   └── ...
+└── Certificate
+    ├── certificate.pdf
+    └── certificate.png
 ```
 
 ## Skills Demonstrated
